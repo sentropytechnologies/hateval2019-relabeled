@@ -2,7 +2,7 @@
 A relabeled version of the HatEval (SemEval 2019) dataset used in [Practical Transformer-based Multilingual Text Classification \(Wang and Banko, 2021\)](./Practical_Transformer_based_Multilingual_Text_Classification.pdf), to appear in proceedings of NAACL 2021 (Industry Track).
 
 ## Original Dataset
-This dataset was originally released as for the [HatEval shared task](https://competitions.codalab.org/competitions/19935) [(Basile et al., 2019)](https://www.aclweb.org/anthology/S19-2007.pdf), part of SemEval 2019. The dataset consists of tweets in English (10k train/dev, 3k test) and Spanish (5k train/dev, 1.6k test) with binary labels for the following attributes:
+This dataset was originally released for the [HatEval shared task](https://competitions.codalab.org/competitions/19935) [(Basile et al., 2019)](https://www.aclweb.org/anthology/S19-2007.pdf), part of SemEval 2019. The dataset consists of tweets in English (10k train/dev, 3k test) and Spanish (5k train/dev, 1.6k test) with binary labels for the following attributes:
 - HS: 1 if hate speech is present, 0 if not
 - TR: 1 if the target is a specific individual, 0 if it is a general group
 - AG: 1 if the tweeter is aggressive, 0 if not
