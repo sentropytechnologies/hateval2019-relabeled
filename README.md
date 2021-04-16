@@ -1,5 +1,5 @@
 # hateval2019-relabeled
-A relabeled version of the HatEval (SemEval 2019) dataset used in ["Practical Transformer-based Multilingual Text Classification"](TODO pdf of paper) (to appear in proceedings of NAACL 2021).
+A relabeled version of the HatEval (SemEval 2019) dataset used in ["Practical Transformer-based Multilingual Text Classification"](./Practical_Transformer_based_Multilingual_Text_Classification.pdf) (to appear in proceedings of NAACL 2021).
 
 ## Original Dataset
 This dataset was originally released as for the [HatEval shared task](https://competitions.codalab.org/competitions/19935) [(Basile et al., 2019)](https://www.aclweb.org/anthology/S19-2007.pdf), part of SemEval 2019. The dataset consists of tweets in English (10k train/dev, 3k test) and Spanish (5k train/dev, 1.6k test) with binary labels for the following attributes:
